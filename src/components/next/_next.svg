@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 225" width="2048" height="225">
+	<defs>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="flt1"> <feGaussianBlur stdDeviation="30" /> </filter>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="flt2"> <feGaussianBlur stdDeviation="8.3" /> </filter>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { filter: url(#flt1);fill: #f78b1f } 
+		.shp1 { filter: url(#flt2);fill: #f78b1f } 
+		.shp2 { fill: none;stroke: #ffffff;stroke-linecap:round;stroke-width: 5 } 
+		.txt3 { font-size: 14px;letter-spacing: 0px;fill: rgb(255,255,255);font-family: "Gotham Pro" } 
+	</style>
+	<g id=" next">
+		<path id="Ellipse 4" class="shp0" d="M642,247c0.58,42.31 207.02,58.75 389.55,54.61c182.53,-4.14 431.03,-12.3 430.45,-54.61c-0.58,-42.31 -250.02,-102.75 -432.55,-98.61c-182.53,4.14 -388.03,56.3 -387.45,98.61z" />
+		<path id="Rectangle 5" class="shp1" d="M133,376h1599l123,-126c0,0 -291.87,-70 -791,-70c-523.77,0 -825,66 -825,66z" />
+		<path id="Shape 21" class="shp2" d="M1004.28,149l41.21,37.38l40.19,-37.38" />
+		<text id="Txt_headline copy 2" style="transform: matrix(2.093,0,0,2.094,941,112.449)" >
+			<tspan x="0" y="0" class="txt3">Листайте вниз</tspan>
+		</text>
+	</g>
+</svg>
